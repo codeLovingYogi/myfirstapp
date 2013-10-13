@@ -1,4 +1,4 @@
-Hellow world! This is my first rails application!
+Hello world! This is my first rails application!
 
 == Welcome to Rails
 
